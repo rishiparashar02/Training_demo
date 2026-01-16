@@ -1,5 +1,7 @@
 india
 srilanka
-
+spain
+australia
+nz
 
 etc
